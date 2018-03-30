@@ -1,2 +1,4 @@
-﻿  源.cpp
-LINK : fatal error LNK1168: 无法打开 C:\Users\Leonardo\Desktop\Leetcode\Project\Debug\Project.exe 进行写入
+﻿  Prob23.cpp
+c:\users\leonardo\desktop\leetcode\project\project\prob23.cpp(24): warning C4018: “<”: 有符号/无符号不匹配
+  Project.vcxproj -> C:\Users\Leonardo\Desktop\Leetcode\Project\Debug\Project.exe
+  Project.vcxproj -> C:\Users\Leonardo\Desktop\Leetcode\Project\Debug\Project.pdb (Partial PDB)
